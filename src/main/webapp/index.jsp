@@ -1,4 +1,5 @@
 <html>
+<!DOCTYPE>
 <head>
 <title>Hello World!</title>
 </head>
